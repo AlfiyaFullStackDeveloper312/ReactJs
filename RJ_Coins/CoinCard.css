@@ -1,0 +1,10 @@
+.coin-image{
+    height: 150px;
+    height: 150px;
+   gap:20px;
+}
+.coin-badge{
+    height: 200px;
+    width: 30px;
+    background-color:lightgray;
+}
