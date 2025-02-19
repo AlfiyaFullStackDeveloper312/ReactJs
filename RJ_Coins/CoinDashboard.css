@@ -1,3 +1,4 @@
+/* main-container */
 .main-container {
   width: 100vw;
   height: 100vh;
@@ -11,6 +12,7 @@
   justify-content: center;
   gap: 50px;
 }
+/* counter */
 .counter {
   width: 10vw;
   height: 10vh;

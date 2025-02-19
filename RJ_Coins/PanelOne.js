@@ -13,7 +13,7 @@ export default class PanelOne extends React.Component {
             coinTwentyCounter: 0,
         };
     }
-
+// incrementCounter
     incrementCounter = (coin) => {
         if (coin === "One") {
             this.setState({ coinOneCounter: this.state.coinOneCounter += 1 });
@@ -30,7 +30,9 @@ export default class PanelOne extends React.Component {
 
     render() {
         return (
+            // panel
             <div className="panel">
+                {/* CoinCard Images */}
                 <CoinCard 
                     imageName="one.png"
                     coin="One"

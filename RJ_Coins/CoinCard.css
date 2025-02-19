@@ -1,8 +1,11 @@
+/* Coin-Image css */
 .coin-image{
     height: 150px;
     height: 150px;
    gap:20px;
 }
+
+/* coin-badge css */
 .coin-badge{
     height: 200px;
     width: 30px;

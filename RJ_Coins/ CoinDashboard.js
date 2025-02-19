@@ -9,6 +9,7 @@ import PanelOne from "./PanelOne.js";
         };
 
     }
+    // OnCoinclick function
     onCoinClick = (coin)=>{
         if(coin == "One"){
             this.setState ({total:(this.state.total += 1)})
@@ -24,7 +25,9 @@ import PanelOne from "./PanelOne.js";
     }
 render(){
     return(
+        // main-container
         <div className="main-container">
+            {/* Counter */}
  <div className="counter">Total Coins:{this.state.total}</div>
  <PanelOne onCoinClick={this.onCoinClick}/>
         </div>
