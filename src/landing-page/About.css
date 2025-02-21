@@ -1,0 +1,18 @@
+/* main-container css */
+.main-container{
+    height: auto;
+    width: 100vw;
+    display: flex;
+    flex-direction: row;
+    
+}
+/* logo css */
+.logo{
+    width: 40vw;
+    background-color:  black;
+    
+}
+.information{
+    width: 60vw;
+    background-color:  black;
+}

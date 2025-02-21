@@ -1,0 +1,23 @@
+// const Movies = [
+//   { name: "Hum Sath Sath Hai",
+//     image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVyX4PROYT42vSZvvYcnMFB-fhDusDSHW72w&s",
+//      year: 1999,
+//       duration: "2h 57m" },
+//   { name: "Yeh Jawani Hai Deewani",
+//     image:"https://d3lzcn6mbbadaf.cloudfront.net/media/details/ANI-20241227091907.jpg",
+//      year: 2013,
+//       duration: "2h 40m" },
+//   { name: "Highway",
+//     image:"https://assets-in.bmscdn.com/discovery-catalog/events/et00014920-slyupjlxgu-landscape.jpg",
+//      year: 2014,
+//       duration: "2h 13m" },
+//   { name: "Zindagi Na Milegi Dobara",
+//     image:"https://www.withlovemoni.com/wp-content/uploads/2023/04/Zindagi-Na-milegi-dobara-movie-prime.jpg",
+//      year: 2011,
+//       duration: "2h 34m" },
+//   { name: "Jigra",
+//     image:"https://img.indiaforums.com/article/1040x780/21/2737-jigra-bo-collection-day-1-alia-bhatts-film-opens-to-modest-response.jpg?c=3oG1E8",
+//      year: 2024,
+//       duration: "2h 30m" },
+// ];
+// export default Movies;

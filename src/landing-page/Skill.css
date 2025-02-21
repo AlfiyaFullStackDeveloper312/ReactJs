@@ -1,0 +1,11 @@
+.container-two{
+    height: auto;
+    width: 100vw;
+    background-color: black;
+    color:white;
+    display: flex;
+    flex-direction: row;
+}
+.Information{
+    width: 60vw;
+}
