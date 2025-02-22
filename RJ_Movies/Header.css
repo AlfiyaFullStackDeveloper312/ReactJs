@@ -1,0 +1,14 @@
+/* Header-Container css*/
+.Header-Container {
+  width: 97vw;
+  height: auto;
+  background-color: rgb(0, 0, 0);
+  display: flex;
+  align-items: center;
+  padding: 20px;
+}
+/* heading css */
+.heading {
+  color: whitesmoke;
+}
+ 
