@@ -1,0 +1,49 @@
+/* bulb-main-container css */
+.bulb-main-container{
+    height: 100vh;
+    width: 100vw;
+    background-color: rgb(22, 38, 38);
+}
+/* bulb-container css */
+.bulb-container {
+  width: 40vw;
+  height: 70vh;
+  display: flex;
+  flex-direction: column;
+  margin-top: 100px;
+  margin-left: 400px;
+  background-color: rgb(10, 10, 10);
+  align-items: center;
+  justify-content: center;
+  border: solid wheat;
+}
+/* h1 css */
+.bulb-container h1 {
+  color: wheat;
+}
+/* btn css */
+.btn {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 20px;
+}
+/* button-on css */
+.button-on {
+  height: 40px;
+  width: 80px;
+  justify-content: space-around;
+  margin-left: 15px;
+  margin-top: 20px;
+  background-color: rgb(14, 88, 17);
+  border: solid wheat;
+}
+/* button-off css */
+.button-off {
+  height: 40px;
+  width: 80px;
+  justify-content: space-around;
+  margin-left: 15px;
+  margin-top: 20px;
+  background-color: rgb(179, 20, 2);
+  border: solid wheat;
+}

@@ -1,0 +1,10 @@
+.table {
+  display: flex;
+  flex-direction: column;
+  width: 50vw;
+  height: 50vh;
+}
+.cell-button {
+  width: 5vw;
+  height: 5vh;
+}
